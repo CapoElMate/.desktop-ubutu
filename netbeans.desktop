@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=netbeans
+Comment=Abrir Netbeans
+Exec= /home/alumnos/netbeans/bin/netbeans
+Icon= /home/alumnos/netbeans/netbeanslogo.png
+Type=Application
+Categories=Utility
+Terminal=True
